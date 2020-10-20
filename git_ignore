@@ -1,0 +1,7 @@
+`git ignore`
+
+- tells Git which files and folders to ignore
+- chagnges in ignored files and folders are ignored
+- rules are defined in .gitignore
+- .gitignore file itself must be commited
+
