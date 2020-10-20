@@ -89,4 +89,4 @@ After changes and release patch of it
 `git push -v origin v1.0.1'
 
 
-You can see tags on repository now
+You can see tags on repository now and do release when you are ready 
