@@ -15,7 +15,8 @@ Annotated (git tag v1.0.0 -m "new tag" => stored in the .git/refs/tags & .git/ob
 
 ` git tag <version> `
 
-"commit 773852b96368b78c52367dbf5b9c362708304d43 (HEAD -> main, origin/main, origin/HEAD)
+```
+commit 773852b96368b78c52367dbf5b9c362708304d43 (HEAD -> main, origin/main, origin/HEAD)
 Author: Subin <supark87@gmail.com>
 Date:   Tue Oct 20 15:08:29 2020 -0400
 
@@ -36,6 +37,17 @@ Date:   Wed Oct 14 22:03:34 2020 -0400
 commit 52e5774f8f90cb5635eaade912407dd34a21f7bf
 Author: Subin <supark87@gmail.com>
 Date:   Wed Oct 14 22:01:51 2020 -0400
+```
+
+## Push tags to remote
+` git push -v --tags `
+
+You can see tags now on this repository 
+
+Now add one more file and push it as v2.1.1 
+`git push -v origin v1.0.1`
+
+
 
     add readme
 
