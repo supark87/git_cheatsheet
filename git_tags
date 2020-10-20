@@ -79,3 +79,14 @@ error: no signature found
 ```
 
 SHA1 hash is different here since annotated one creates objects
+
+## Push tags to remote repository
+
+`git push -v --tags`
+
+After changes and release patch of it
+
+`git push -v origin v1.0.1'
+
+
+You can see tags on repository now
