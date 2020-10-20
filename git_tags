@@ -1,0 +1,10 @@
+# Static text pointer to specific commit
+
+# Staging(release): Diffrerent feature branches merged into release branch  vs Production (master) :only release branch is merged into master branch
+
+# Sementic versioning 
+- v1.1.1 (Major, minor(additional function, minor update), patch(small bug fix))
+
+Light weight (git tag v1.0.0 => stored in the .git/refs/tags)
+
+Annotated (git tag v1.0.0 -m "new tag" => stored in the .git/refs/tags & .git/objects, stores author & date)

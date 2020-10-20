@@ -1,0 +1,9 @@
+# git chekcout -b & git branch -vv & git push -u origin <branch name> 
+
+
+- Make new branch
+
+- Check if branch is a tracking branch
+
+- With "-u" you can publish your locally created branch to remote repository
+ 
