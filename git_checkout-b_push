@@ -3,7 +3,6 @@
 
 - Make new branch
 
-- Check if branch is a tracking branch
+- Check if remote one is responding to local
 
 - With "-u" you can publish your locally created branch to remote repository
- 
