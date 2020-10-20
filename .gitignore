@@ -1,3 +1,8 @@
+
+#Ignore single file
 new-file.txt
 
+#Ignore all files in the bin directory
 /Markdown_1.0.1
+
+# Ignore all .tmp files
