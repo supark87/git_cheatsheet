@@ -5,7 +5,7 @@
 - Compare references for different branches
 
 For example, 
-'''
+```
 
 (base) ➜  Data_viz_tracking git:(main) ✗ git show-ref 
 edb0ea78047f00bc89631047c8df3b070f303314 refs/heads/feature-1
@@ -22,4 +22,4 @@ edb0ea78047f00bc89631047c8df3b070f303314 refs/remotes/origin/feature-1
 000765304022fa94ce630767b8566441804e43a5 refs/remotes/origin/jupyternotebook
 
 
-'''
+```
