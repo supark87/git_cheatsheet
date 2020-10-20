@@ -1,0 +1,21 @@
+#destructive 
+
+- history linear (single parent for each commit)
+- rewrites history 
+- does not keep entire history of all commits
+
+1. Checkout feature branch 
+`git chkeckout feature1`
+
+2. Rebase feature branch on top of the base branch
+`git rebase master`
+
+3. checkout base branch
+`git checkout master`
+
+4. Merge feature branch into the base branch. Fast forward merge will be used
+`git merge feature1`
+
+
+
+
