@@ -1,4 +1,4 @@
-#Detached HEAD
+# Detached HEAD
 
 `git checkout <SHA1>`
 

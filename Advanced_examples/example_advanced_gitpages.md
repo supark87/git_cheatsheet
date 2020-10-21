@@ -25,4 +25,6 @@ Type
 
 unset HOST
 
-npm install gh-pages
+npm run build 
+
+npm install -D gh-pages
