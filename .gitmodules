@@ -1,0 +1,6 @@
+[submodule "miniconda3/envs/jupyter/lib/python3.7/site-packages/pandas/tests/tools/xcodedevtools"]
+	path = miniconda3/envs/jupyter/lib/python3.7/site-packages/pandas/tests/tools/xcodedevtools
+	url = https://github.com/trojanfoe/xcodedevtools.git
+[submodule "miniconda3/envs/jupyter/lib/python3.7/site-packages/pandas/tests/tools/tools"]
+	path = miniconda3/envs/jupyter/lib/python3.7/site-packages/pandas/tests/tools/tools
+	url = https://github.com/trojanfoe/xcodedevtools
