@@ -4,7 +4,6 @@
 - rewrites history 
 - does not keep entire history of all commits
 
-<<<<<<< HEAD
 1. Checkout feature branch 
 `git chkeckout feature1`
 
@@ -19,13 +18,4 @@
 
 
 
-=======
-1. Checkout feature branch
-
-2. Rebase feature branch on top of the base branch
-
-3. checkout base branch
-
-4. Merge feature branch into the base branch. Fast forward merge will be used
->>>>>>> 678276bb164727e38bc14f1d8607503b984d772b
 
