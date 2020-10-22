@@ -4,4 +4,4 @@
 
 - For common use examples, [follow this link](https://github.com/supark87/git_cheatsheet/tree/main/examples)
 
-- For advanced examples, [follow this link](https://github.com/supark87/git_cheatsheet/tree/main/advanced_examples)
+- For advanced examples, [follow this link](https://github.com/supark87/git_cheatsheet/tree/main/Advanced_examples)
