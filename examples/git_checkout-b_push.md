@@ -1,9 +1,13 @@
-# git chekcout -b & git branch -vv & git push -u origin <branch name> 
+# git chekcout -b <branch name>
 
+- make new branch and checkout to that branch at the same time
 
-- Make new branch
+git branch -vv
 
 - Check if remote one is responding to local
+
+
+# git push -u origin <branch name> 
 
 - With "-u" you can publish your locally created branch to remote repository
 

@@ -1,8 +1,10 @@
 `git diff`
 
-When you modify file and want to check the modification of your file.
+- When you modify file and want to check the modification of your file.
 
-`git status` would show there is modified file
+`git status` 
+
+- would show there is modified file
 
 ```
 

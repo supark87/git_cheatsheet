@@ -9,6 +9,24 @@ For example.
 
 CDC LpSup and local repository.
 
-(results would be added)
+### Before command
 
+```
+(base) ➜  .git git:(main) git remote
+origin 
+```
 
+### After command
+
+```
+(base) ➜  LpSubP-1 git:(master) git remote add upstream git@github.com:CDCgov/LpSubP.git
+(base) ➜  LpSubP-1 git:(master) git remote
+origin
+upstream
+
+(base) ➜  LpSubP-1 git:(master) git remote -v
+origin	git@github.com:supark87/LpSubP-1.git (fetch)
+origin	git@github.com:supark87/LpSubP-1.git (push)
+upstream	git@github.com:CDCgov/LpSubP.git (fetch)
+upstream	git@github.com:CDCgov/LpSubP.git (push)
+```
