@@ -5,11 +5,11 @@
 - rules are defined in .gitignore
 - .gitignore file itself must be commited
 
-If you want to ignore previously commited file,
+- If you want to ignore previously commited file,
 
 ` git rm --cached <filename> `
 
-It will remove the file from repository but keep in working directory
+- It will remove the file from repository but keep in working directory
 
 
 

@@ -1,6 +1,6 @@
 ` git gc `
 
-It creates new pack file and cleaning up. 
+- It creates new pack file and cleaning up. 
 
 
 ```

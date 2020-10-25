@@ -5,7 +5,7 @@
 - does not keep entire history of all commits
 
 1. Checkout feature branch 
-`git chkeckout feature1`
+`git checkout feature1`
 
 2. Rebase feature branch on top of the base branch
 `git rebase master`
