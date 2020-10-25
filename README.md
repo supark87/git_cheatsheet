@@ -1,6 +1,5 @@
 # git_cheatsheet
 
-Monday is my favorite day to work with git 
 
 ### This repository has useful git cheasheet with examples run by me.
 
