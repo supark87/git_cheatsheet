@@ -1,6 +1,5 @@
 # git_cheatsheet
 
-## I love monday so much
 
 ### This repository has useful git cheasheet with examples run by me.
 
