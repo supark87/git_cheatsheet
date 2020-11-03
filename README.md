@@ -5,3 +5,5 @@
 - For common use examples, [follow this link](https://github.com/supark87/git_cheatsheet/tree/main/examples)
 
 - For advanced examples, [follow this link](https://github.com/supark87/git_cheatsheet/tree/main/Advanced_examples)
+
+This repository will help build up git proficiency
